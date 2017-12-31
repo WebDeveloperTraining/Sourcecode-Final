@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/Admin/Home.jsp=UTF-8
+encoding//WebContent/WEB-INF/Admin/Login.jsp=UTF-8
+encoding//WebContent/WEB-INF/Admin/QuanLyBaiViet.jsp=UTF-8
+encoding//WebContent/WEB-INF/Admin/QuanLyChuDe.jsp=UTF-8
+encoding//WebContent/WEB-INF/Admin/QuanLyChung.jsp=UTF-8
+encoding//WebContent/WEB-INF/Admin/QuanLyTinTucSuKien.jsp=UTF-8
+encoding//src/Controllers/Admin/CapNhatAnhDaiDienControllers.java=UTF-8
+encoding//src/Controllers/Admin/DangKyTaiKhoan.java=UTF-8
+encoding//src/Controllers/Admin/DanhSachBaiVietTheoChuyenGiaControllers.java=UTF-8
+encoding//src/Controllers/Admin/DanhSachChuDeControllers.java=UTF-8
+encoding//src/Controllers/Admin/DanhSachThamGiaControllers.java=UTF-8
+encoding//src/Controllers/Admin/ThemChuDe.java=UTF-8
+encoding//src/Controllers/Admin/ThongBaoBaiVietControllers.java=UTF-8
+encoding//src/Controllers/Admin/TrangThaiControllers.java=UTF-8
+encoding//src/Controllers/Admin/UploadFileControllers.java=UTF-8
